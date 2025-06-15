@@ -25,3 +25,9 @@
 ## ipv4address
 ## options
 # dhcp >> static 
+
+## Add users
+# useradd sshuser -u 1010, passwd sshuser
+# usermod -aG wheel sshuser
+# /etc/sudoers
+# sshuser ALL=(ALL) NOPASSWD:ALL

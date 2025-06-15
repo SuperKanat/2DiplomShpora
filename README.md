@@ -1,13 +1,13 @@
 # 2DiplomShpora
 
-### Hostname
+## Hostname
 # hostnamectl hostname <>
 
-### Timezone
+## Timezone
 # apt-get install tzdata
 # timedatectl set-timezone ?/?
 
-### ISP
+## ISP
 ## options
 # /etc/net/ifaces/ens19/options
 # dhcp >> static
@@ -19,7 +19,7 @@
 # /etc/net/sysct.conf
 # ipv4_forvard >> 1
 
-### HQ-RTR or other machines lower
+## HQ-RTR or other machines lower
 ## ipv4route
 # default via ??
 ## ipv4address

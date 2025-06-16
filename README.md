@@ -1,5 +1,7 @@
 # 2DiplomShpora
 ![image](https://github.com/user-attachments/assets/8069b661-75e5-47da-9aa1-f51f0e02ea9e)
+![image](https://github.com/user-attachments/assets/97a4a35f-0d39-474a-a6a2-b48e13c8981f)
+
 
 
 ## Hostname

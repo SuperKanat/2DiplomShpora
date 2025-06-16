@@ -1,4 +1,6 @@
 # 2DiplomShpora
+![image](https://github.com/user-attachments/assets/8069b661-75e5-47da-9aa1-f51f0e02ea9e)
+
 
 ## Hostname
 # hostnamectl hostname <>
